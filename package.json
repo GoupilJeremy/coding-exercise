@@ -1,0 +1,26 @@
+{
+  "name": "Coding-exercise",
+  "author": "https://github.com/GoupilJeremy",
+  "version": "0.0.1",
+  "description": "Coding exercise",
+  "main": "program.js",
+  "scripts": {
+    "start": "node program.js",
+    "test": "jest"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoupilJeremy/nodejs-test.git"
+  },
+  "keywords": [
+    "node",
+    "jest"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

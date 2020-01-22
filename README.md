@@ -1,16 +1,16 @@
-Coding-exercise
+# Coding-exercise
 
-** install
+## install
 ```javascript
 npm install
 ```
 
-** launch tests
+## launch tests
 ```javascript
 npm test
 ```
 
-** run program
+## run program
 ```javascript
 npm start
 ```
